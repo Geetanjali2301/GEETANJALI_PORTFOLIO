@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
-import pdf from "../../Assets/Geetanjali_Pohare.pdf";
+import pdf from "../../Assets/Geetanjali_Resume_final.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import ReactGA from "react-ga";
 
